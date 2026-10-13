@@ -1,3 +1,5 @@
+![Nigel Law Firm: Network](./topology.png)
+
 **Nigel Law Firm: Network Requirements Analysis & Design**  
 Group project for **Data Communication & Networking** at Victoria University Kampala. We modelled the network of a small law firm that handles confidential client case files: 3 floors, a server room, 22 users and 30 end devices.  
 **What we designed**  
