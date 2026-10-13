@@ -4,7 +4,7 @@ Group project for **Data Communication & Networking** at Victoria University Kam
 | | |  
 |-|-|  
 | **Area** | **Decision** |   
-| Topology | Extended star: Router 2911, one Core Switch 2960, four access switches (ground, first, second floor, server farm) |   
+| Topology | Extended star: Router 2811, one Core Switch 2960, four access switches (ground, first, second floor, server farm) |   
 | Addressing | 192.168.10.0/24 split into /28 subnets (mask 255.255.255.240), one per VLAN |   
 | VLANs | 10 Front Desk, 20 Partners, 30 Associates, 40 Accounts, 50 Managing Partner, 60 IT/Admin/Library + servers |   
 | Media | Cat6 straight-through on the LAN, fiber on the ISP link, WPA2-PSK Wi-Fi |   
